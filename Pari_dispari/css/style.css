@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid blue;
+}
+
+.hidden {
+  display: none;
+}
+
+.hover {
+  background-color: red;
+}
